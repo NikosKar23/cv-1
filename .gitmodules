@@ -1,0 +1,3 @@
+[submodule "site/_gallery"]
+	path = site/_gallery
+	url = https://github.com/NikosKar23/_gallery.git
